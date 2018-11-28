@@ -4,9 +4,9 @@
 
 - [SuperCollider](https://supercollider.github.io/download)
 - [Reaper](https://www.reaper.fm/download.php)
-- Jack
+- [Jack](http://www.jackosx.com/download.html)
 - [IEM Plug-in suite](https://plugins.iem.at/download/)
-- IEM Quark for SuperCollider
+- ambiIEM Quark for SuperCollider
 
 ## Setup
 
