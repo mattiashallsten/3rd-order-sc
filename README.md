@@ -18,4 +18,4 @@
 
 ## Jack
 
-I've included a Jack installer for OSX, out of convenience. I can't seem to find it online but it as included in a Faust package.
+I've included a Jack installer for OSX, out of convenience. I can't seem to find it onlin, but it was included in a Faust package I had on my laptop.
