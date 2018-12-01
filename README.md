@@ -15,3 +15,7 @@
 3. Start Reaper, open `decoder.rpp` and make sure the channel named "Binaural" is record enabled.
 4. Route the outputs of scsynth in JackPilot to the inputs of Reaper via Jack.
 5. Route the outputs of Reaper to the System via Jack.
+
+## Jack
+
+I've included a Jack installer for OSX, out of convenience. I can't seem to find it online but it as included in a Faust package.
